@@ -26,7 +26,7 @@ defmodule EDAM.Parser do
                                                     ),
                                                     Map.put(
                                                       accDescriptions,
-                                                      id,
+                                                      Enum.at(row, 0),
                                                       %{
                                                         :label => Enum.at(row, 1),
                                                         :synonyms => if (String.length(Enum.at(row, 2)) > 0) do
