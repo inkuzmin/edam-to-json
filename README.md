@@ -5,7 +5,7 @@ Please, check `data/edam.formatted.json`, `data/edam.json`
 
 ## Build the results
 
-### [https://elixir-lang.org/install.html](Install Elixir)
+### [Install Elixir](https://elixir-lang.org/install.html)
 
 ### In the directory with `mix.exs`:
 ```
