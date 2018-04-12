@@ -1,5 +1,8 @@
 # Tool to convert [EDAM.csv](https://github.com/edamontology/edamontology) to hierarchical EDAM.json
 
+## Better alternatives
+https://github.com/edamontology/edam2json – Python utility to export EDAM to various sorts of JSON formats (JSON-LD, bio.tools JSON)
+
 ## Download the results
 Please, check `data/edam.formatted.json`, `data/edam.json`
 
